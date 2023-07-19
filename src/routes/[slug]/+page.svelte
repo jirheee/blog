@@ -23,7 +23,7 @@
 		{/each}
 	</div>
 
-	<div class="prose">
+	<div class="mdcontent">
 		<svelte:component this={data.content} />
 	</div>
 </article>

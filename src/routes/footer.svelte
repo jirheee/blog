@@ -1,5 +1,5 @@
 <script lang="ts">
-	import * as config from "$lib/index";
+	import * as config from "$lib/config";
 </script>
 
 <footer>
