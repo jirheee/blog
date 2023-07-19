@@ -8,6 +8,10 @@ categories:
 published: true
 ---
 
+<script>
+  import Counter from './counter.svelte'
+</script>
+
 ## Markdown
 
 Hey~~
@@ -34,3 +38,9 @@ function hello() {
 Media inside the **static** folder is served from `/`.
 
 ![Svelte](favicon.png)
+
+## Custom component in markdown
+
+<Counter />
+
+
